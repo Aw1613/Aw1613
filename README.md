@@ -1,53 +1,140 @@
+```
+███╗   ███╗ ██████╗ ███╗   ██╗██╗██╗      ██████╗  █████╗ ██╗   ██╗████████╗ █████╗ ███╗   ███╗
+████╗ ████║██╔═══██╗████╗  ██║██║██║     ██╔════╝ ██╔══██╗██║   ██║╚══██╔══╝██╔══██╗████╗ ████║
+██╔████╔██║██║   ██║██╔██╗ ██║██║██║     ██║  ███╗███████║██║   ██║   ██║   ███████║██╔████╔██║
+██║╚██╔╝██║██║   ██║██║╚██╗██║██║██║     ██║   ██║██╔══██║██║   ██║   ██║   ██╔══██║██║╚██╔╝██║
+██║ ╚═╝ ██║╚██████╔╝██║ ╚████║██║███████╗╚██████╔╝██║  ██║╚██████╔╝   ██║   ██║  ██║██║ ╚═╝ ██║
+╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝╚═╝     ╚═╝
+```
+
 <div align="center">
 
-# 🚀 Monil Gautam
-**Aspiring Software Engineer | Problem Solver | Creative Thinker**
+> *"In Minecraft, you mine before you build. In code, you learn before you ship."*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monil-gautam-7b437a372)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/monilgautam)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/monilgautam187)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 
-"Learning by doing. Building with discipline."
 </div>
 
 ---
 
-### ⚡ Quick Ops
-* 🎓 **B.Tech CS Engineering** at VIT Bhopal (Sophomore Year)
-* 🛠️ **Current Focus:** Mastery of Data Structures & Algorithms (DSA)
-* 🚀 **Goal:** Open Source contributions & GSoC preparation
-* 💻 **Environment:** MacBook Air M4 (Midnight) | C++ & Python
+## 🪨 `[ PLAYER CARD ]`
+
+```yaml
+Name      : Monil Gautam
+Class     : B.Tech Computer Science @ VIT Bhopal
+Year      : Sophomore (Semester 2)
+Device    : MacBook Air M4 — Midnight Edition 🖤
+Gamemode  : SURVIVAL  # No creative mode shortcuts
+Objective : GSoC 2027 → Software Engineering
+Spawn     : Jaipur, Rajasthan, India 🇮🇳
+```
 
 ---
 
-### 💻 Technical Arsenal
+## ⛏️ `[ HOTBAR — ACTIVE SKILLS ]`
 
-| Category | Tools & Languages |
-| :--- | :--- |
-| **Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **Data Science** | ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
-| **Development** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
-| **Creative** | ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white) ![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-000000?style=flat-square&logo=davinci-resolve&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
+| Slot | Tool | Level |
+|:----:|:-----|:------|
+| 🗡️ `[1]` | C++ & OOP | `▓▓▓▓▓▓░░░░` Intermediate |
+| 🪓 `[2]` | Python | `▓▓▓░░░░░░░` Learning |
+| 🔨 `[3]` | DSA & Problem Solving | `▓▓▓▓░░░░░░` Building |
+| 🏹 `[4]` | Git & GitHub | `▓▓▓░░░░░░░` Practicing |
+| ⚗️ `[5]` | Pandas & NumPy | `▓▓░░░░░░░░` Mining |
+| 🧭 `[6]` | Blender 3D | `▓▓▓░░░░░░░` Crafting |
+| 🎬 `[7]` | DaVinci Resolve | `▓▓▓▓░░░░░░` Rendering |
 
 ---
 
-### 📊 GitHub Insights
+## 🏗️ `[ CURRENT BUILD ]`
+
+```
+┌─────────────────────────────────────────────┐
+│  ACTIVE QUESTS                              │
+│  ▶  Kaggle Learn — Python → Pandas → ML    │
+│  ▶  DSA Grind — Arrays, Strings, Trees     │
+│  ▶  Open Source Exploration (GSoC 2027)    │
+│  ▶  French — Duolingo (19,078 XP 🇫🇷)     │
+└─────────────────────────────────────────────┘
+```
+
+---
+
+## 🧰 `[ INVENTORY — FULL TECH STACK ]`
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aw1613&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aw1613&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-000000?style=flat-square&logo=davinci-resolve&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
 </div>
 
 ---
 
-### 🌐 Currently Mastering
-- 🧩 **DSA:** Solving problems to build a rock-solid engineering foundation.
-- 🇫🇷 **French:** - **Platform:** Duolingo
-  - **Current Progress:** `19078 XP`
-- 🛠️ **System Setup:** Constant optimization for high-performance dev workflows.
+## 📊 `[ SERVER STATS ]`
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aw1613&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=5dfc82&icon_color=5dfc82&text_color=ffffff&bg_color=0d1117" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aw1613&layout=compact&theme=tokyonight&hide_border=true&title_color=5dfc82&text_color=ffffff&bg_color=0d1117" height="180px" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aw1613&theme=tokyonight&hide_border=true&stroke=5dfc82&ring=5dfc82&fire=ff6b35&currStreakLabel=5dfc82" />
+</div>
+
+---
+
+## 🗺️ `[ WORLD SEED — ORIGIN STORY ]`
+
+```
+> Built CyberFlux — a URL safety checker (Cybersecurity Hackathon)
+> Led Round 1 presentation. Learned more from the process than the result.
+> Attempted LibreOffice source build — 40 hrs, failed, learned everything.
+> Lesson: Read the error. Form a hypothesis. Try one thing. Then ask.
+> Now: Mining Python fundamentals before touching the surface world.
+```
+
+---
+
+## 🧱 `[ ACHIEVEMENTS UNLOCKED ]`
+
+```
+🏆  Built first hackathon project — CyberFlux (AI-powered URL checker)
+🏆  Set up C++ dev environment on Apple Silicon from scratch
+🏆  Completed PROLOG lab (11 experiments) under deadline pressure
+🏆  Evaluated and REJECTED a bad repo before falling into a 40hr hole
+🏆  Currently on a Kaggle Python → ML learning path
+⬜  First open source PR merged
+⬜  GSoC 2027 proposal submitted
+⬜  GSoC 2027 — SELECTED
+```
+
+---
+
+## 📡 `[ COORDINATES ]`
+
+<div align="center">
+
+*X: Jaipur → Y: VIT Bhopal → Z: Somewhere between a bug and a fix*
+
+**"Learning by doing. Building with discipline."**
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Aw1613&style=for-the-badge&color=5dfc82&label=CHUNKS+LOADED)](https://github.com/Aw1613)
+
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aw1613&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+  <sub>⛏️ This profile is still under construction. Come back when the chunks load.</sub>
 </div>
