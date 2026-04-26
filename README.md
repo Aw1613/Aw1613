@@ -105,7 +105,7 @@ Objective       : GSoC 2027 → Software Engineering
 
 ---
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Aw1613&style=for-the-badge&color=5dfc82&label=CHUNKS+LOADED)](https://github.com/Aw1613)
+[![Profile Views](https://komarev.com/ghpvc/?username=Aw1613&style=for-the-badge&color=5dfc82&label=Profile+views)](https://github.com/Aw1613)
 
 ---
 
