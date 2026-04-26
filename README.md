@@ -9,7 +9,7 @@
 
 <div align="center">
 
-> *"In Minecraft, you mine before you build. In code, you learn before you ship."*
+> *"Only limit is your imagination"*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monil-gautam-7b437a372)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/monilgautam)
@@ -23,13 +23,12 @@
 ## 🪨 `[ PLAYER CARD ]`
 
 ```yaml
-Name      : Monil Gautam
-Class     : B.Tech Computer Science @ VIT Bhopal
-Year      : Sophomore (Semester 2)
-Device    : MacBook Air M4 — Midnight Edition 🖤
-Gamemode  : SURVIVAL  # No creative mode shortcuts
-Objective : GSoC 2027 → Software Engineering
-Spawn     : Jaipur, Rajasthan, India 🇮🇳
+Name            : Monil Gautam
+Class           : B.Tech Computer Science @ VIT Bhopal
+Year            : Sophomore (Semester 2)
+Enviornment     : macos 
+Gamemode        : SURVIVAL  # No creative mode shortcuts
+Objective       : GSoC 2027 → Software Engineering
 ```
 
 ---
@@ -44,7 +43,6 @@ Spawn     : Jaipur, Rajasthan, India 🇮🇳
 | 🏹 `[4]` | Git & GitHub | `▓▓▓░░░░░░░` Practicing |
 | ⚗️ `[5]` | Pandas & NumPy | `▓▓░░░░░░░░` Mining |
 | 🧭 `[6]` | Blender 3D | `▓▓▓░░░░░░░` Crafting |
-| 🎬 `[7]` | DaVinci Resolve | `▓▓▓▓░░░░░░` Rendering |
 
 ---
 
@@ -104,36 +102,9 @@ Spawn     : Jaipur, Rajasthan, India 🇮🇳
 > Now: Mining Python fundamentals before touching the surface world.
 ```
 
----
-
-## 🧱 `[ ACHIEVEMENTS UNLOCKED ]`
-
-```
-🏆  Built first hackathon project — CyberFlux (AI-powered URL checker)
-🏆  Set up C++ dev environment on Apple Silicon from scratch
-🏆  Completed PROLOG lab (11 experiments) under deadline pressure
-🏆  Evaluated and REJECTED a bad repo before falling into a 40hr hole
-🏆  Currently on a Kaggle Python → ML learning path
-⬜  First open source PR merged
-⬜  GSoC 2027 proposal submitted
-⬜  GSoC 2027 — SELECTED
-```
 
 ---
 
-## 📡 `[ COORDINATES ]`
-
-<div align="center">
-
-*X: Jaipur → Y: VIT Bhopal → Z: Somewhere between a bug and a fix*
-
-**"Learning by doing. Building with discipline."**
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Aw1613&style=for-the-badge&color=5dfc82&label=CHUNKS+LOADED)](https://github.com/Aw1613)
-
-</div>
-
----
 
 <div align="center">
   <sub>⛏️ This profile is still under construction. Come back when the chunks load.</sub>
